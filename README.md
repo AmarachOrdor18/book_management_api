@@ -182,7 +182,7 @@ This is a simple Book Management API built using FastAPI. It allows users to vie
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/book-api.git
+git clone https://github.com/AmarachOrdor18/book_management_api.git
 cd book-api
 ```
 
